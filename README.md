@@ -1,2 +1,4 @@
 # type-calculator-tool
-Simple Python calculator  using condition
+# Calculator
+
+This is a Python calculator with loop and multiple operations.
